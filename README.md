@@ -5,5 +5,5 @@ python -m venv .venv
 .venv\Scripts\activate
 ```
 ```powershell
-pip install yfinance pandas python-dotenv
+pip install -r requirements.txt
 ```
